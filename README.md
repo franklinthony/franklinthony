@@ -1,4 +1,4 @@
-## 👨‍💻  Franklin Anthony - @franklinthony 
+# 👨‍💻  Franklin Anthony 
 
 ### Hi, there! Welcome to my profile 😄 
 
