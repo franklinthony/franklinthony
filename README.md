@@ -1,28 +1,18 @@
-# Franklin Anthony 
 
-### Hi, there! Welcome to my profile 😄 
+# Franklin Anthony
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoclair/)](https://www.linkedin.com/in/franklinthony/)
+## Sobre mim
+
+> * Bacharelando em Engenharia de Computação - UFPB
+> * Membro da (TAIL - Technology and Articial Intelligence League)[https://www.linkedin.com/company/tailufpb/], atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras; 
+
+## Atuações e Interesses
+
+> - :snake: :computer: Atuo como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos";
+> - :eyes: :mag: Atuo como aluno de iniciação tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana";
+
+## Onde me encontrar
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinthony)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego93rodrigues@gmail.com)](mailto:franklinthony@eng.ci.ufpb.br)
-
-<!--### About me
-My name is Diego and I am a software engineer at Red Ventures. Passionate about learning and programming 💻.
-- 💙  In love with golang language. 
-- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes and software architecture.
-- 🔭  I wanna be one of the world best software engineers.
-- 📫  Please do not hesitate to contact me.
-
-
-<!--
-**diegoclair/diegoclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!--Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franklinthony)
