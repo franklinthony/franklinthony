@@ -4,7 +4,7 @@
 ## Sobre mim
 
 > * Bacharelando em Engenharia de Computação - UFPB
-> * Membro da (TAIL - Technology and Articial Intelligence League)[https://www.linkedin.com/company/tailufpb/], atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras; 
+> * Membro da [TAIL - Technology and Articial Intelligence League](https://www.linkedin.com/company/tailufpb/), atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras; 
 
 ## Atuações e Interesses
 
@@ -14,5 +14,4 @@
 ## Onde me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinthony)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego93rodrigues@gmail.com)](mailto:franklinthony@eng.ci.ufpb.br)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franklinthony)
