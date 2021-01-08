@@ -11,10 +11,6 @@
 > - :snake: :computer: Atuo como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos";
 > - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana".
 
-## Linguagens de programação
-
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklinthony&exclude_repo=portfolio-tcb,franklinthony.github.io&show_icons=true&hide=html, teX&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Onde me encontrar
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklinthony)
