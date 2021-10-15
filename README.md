@@ -9,12 +9,12 @@
 ## Atuações e Interesses
 
 > ### Bolsista
-> > - :computer: :robot: Atuo como estagiário de Inteligência Artificial na [DATAPREV](https://www.linkedin.com/company/dataprev-tecnologia/mycompany/);
-> > - :computer: :robot: Atuo como aluno de Iniciação Científica (UFPB) no projeto "Análise de Tráfego com Inteligência Artificial para o Gerenciamento de Redes LoRaWAN";
-> > - :snake: :computer: Atuei como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos".
+> > - :computer: :robot: Atuo como estagiário de Inteligência Artificial na [DATAPREV](https://www.linkedin.com/company/dataprev-tecnologia/mycompany/) (02/2021 - atual);
+> > - :computer: :robot: Atuo como aluno de Iniciação Científica (UFPB) no projeto "Análise de Tráfego com Inteligência Artificial para o Gerenciamento de Redes LoRaWAN" (09/2021 - atual);
+> > - :snake: :computer: Atuei como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos" (09/2020 - 08/2021).
  
 > ### Voluntário
-> > - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana";
+> > - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana" (09/2020 - atual);
 
 ## Onde me encontrar
 
