@@ -9,8 +9,9 @@
 ## Atuações e Interesses
 
 > - :computer: :robot: Atuo como estagiário de Inteligência Artificial na [DATAPREV](https://www.linkedin.com/company/dataprev-tecnologia/mycompany/);
-> - :snake: :computer: Atuo como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos";
-> - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana".
+> - :computer: :robot: Atuo como aluno de Iniciação Científica (UFPB) no projeto "Análise de Tráfego com Inteligência Artificial para o Gerenciamento de Redes LoRaWAN";
+> - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana";
+> > - :snake: :computer: Atuei como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos".
 
 ## Onde me encontrar
 
