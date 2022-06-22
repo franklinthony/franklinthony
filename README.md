@@ -4,7 +4,7 @@
 ## Sobre mim
 
 > * Bacharelando em Engenharia de Computação - UFPB;
-> * Tech Intern na [Dock Tech](https://www.linkedin.com/company/dock-community/mycompany/), atuando nas áreas de desenvolvimento e EdTech.
+> * Tech Intern na [Dock Tech](https://www.linkedin.com/company/dock-community/mycompany/), atuando nas áreas de desenvolvimento, IA e EdTech.
 > * Membro da [TAIL - Technology and Articial Intelligence League](https://www.linkedin.com/company/tailufpb/), atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras.
 
 ## Atuações e Interesses
