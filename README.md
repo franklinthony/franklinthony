@@ -24,4 +24,4 @@
 
 
 ## Visitas
-[![](https://visitcount.itsvg.in/api?id=talesnobre&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=franklinthony&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
