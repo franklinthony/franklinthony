@@ -5,7 +5,6 @@
 
 > * Bacharelando em Engenharia de Computação - UFPB;
 > * Data Science Intern na [Dock Tech](https://www.linkedin.com/company/dock-community/mycompany/);
-> * Membro da [TAIL - Technology and Articial Intelligence League](https://www.linkedin.com/company/tailufpb/), atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras.
 
 ## Atuações e Interesses
 
@@ -16,6 +15,7 @@
  
 > ### Voluntário
 > > - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana" (09/2020 - atual).
+> > - Fui membro da [TAIL - Technology and Articial Intelligence League](https://www.linkedin.com/company/tailufpb/), atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras (09/2020 - 06/2023).
 
 ## Onde me encontrar
 
