@@ -24,4 +24,4 @@
 
 
 ## Visitas
-[![](https://visitcount.itsvg.in/api?id=franklinthony&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=your-github-franklinthony&color=green)
