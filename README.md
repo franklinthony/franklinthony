@@ -14,7 +14,7 @@
 > > - :snake: :computer: Atuei como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos" (09/2020 - 08/2021).
  
 > ### Voluntário
-> > - :eyes: :mag: Atuo como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana" (09/2020 - atual).
+> > - :eyes: :mag: Atuei como aluno de Iniciação Tecnológica no projeto "AiKi - Inteligência Articial Aplicada ao Diagnóstico Precoce de Ceratocone e Avaliação de Parâmetros Biomecânicos da Superfície Corneana" (09/2020 - 09/2023).
 > > - Fui membro da [TAIL - Technology and Articial Intelligence League](https://www.linkedin.com/company/tailufpb/), atuando nas áreas de Inteligência Artificial, Ciência de Dados, Cálculo, dentre outras (09/2020 - 06/2023).
 
 ## Onde me encontrar
