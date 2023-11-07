@@ -8,7 +8,7 @@
 ## Atuações e Interesses
 
 > ### Bolsista
-> > - :computer: :robot: Atuei como estagiário de Ciência de Dados na [Dock Tech](https://www.linkedin.com/company/dataprev-tecnologia/mycompany/](https://www.linkedin.com/company/dock-community/) (11/2021 - 11/2023);
+> > - :computer: :robot: Atuei como estagiário de Ciência de Dados na [Dock Tech](https://www.linkedin.com/company/dock-community/) (11/2021 - 11/2023);
 > > - :computer: :robot: Atuei como estagiário de Inteligência Artificial na [DATAPREV](https://www.linkedin.com/company/dataprev-tecnologia/mycompany/) (02/2021 - 11/2021);
 > > - :computer: :robot: Atuei como aluno de Iniciação Científica (UFPB) no projeto "Análise de Tráfego com Inteligência Artificial para o Gerenciamento de Redes LoRaWAN" (09/2021 - 11/2021);
 > > - :snake: :computer: Atuei como aluno de Iniciação Científica (CNPq) no projeto "Redes Neurais Articiais Aplicadas ao Pré-diagnóstico de Picadas de Animais Peçonhentos" (09/2020 - 08/2021).
