@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-> * Bacharelando em Engenharia de Computação - UFPB.
+> * Bacharel em Engenharia de Computação - UFPB.
 
 ## Atuações e Interesses
 
